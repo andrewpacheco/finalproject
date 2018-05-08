@@ -1,0 +1,19 @@
+img {
+  width: 90px;
+  height: 90px;
+  float: left;
+  border: solid;
+  border-radius: 25px;
+  background-color:pink;
+}
+
+idCard {
+  border: 5px solid black;
+  height: 14em;
+  width: 25em;
+}
+body{
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  background-color:#58BFBB;
+}
